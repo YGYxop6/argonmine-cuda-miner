@@ -1,0 +1,6 @@
+argon_gpu
+*.o
+__pycache__/
+*.pyc
+job.txt
+*.log
